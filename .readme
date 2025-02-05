@@ -1,0 +1,64 @@
+# 📊 Ciencia de Datos para Negocios 📈
+
+**Universidad: Universidad Panamericana**
+**Profesor: Edgar Avalos Gauna**
+**Estudiante: Jorge Ivan Jimenez Reyes**
+
+---
+
+## 📖 Descripción del Curso
+
+Este curso está diseñado para proporcionar una comprensión práctica de **Ciencia de Datos aplicada a Negocios**. Exploramos cómo los datos pueden impulsar la toma de decisiones estratégicas, optimizar procesos y generar valor para las empresas. A través de teoría y práctica, aplicaremos técnicas de análisis de datos, visualización, machine learning y herramientas de Python.
+
+---
+
+## 🎯 **Objetivos del Curso**
+✔️ Comprender la importancia de los datos en la toma de decisiones empresariales.
+✔️ Aplicar técnicas de análisis y visualización de datos.
+✔️ Desarrollar modelos de machine learning para problemas de negocio.
+✔️ Utilizar herramientas como **Python, Pandas, Matplotlib, Scikit-Learn y SQL**.
+
+---
+
+## 🛠 **Tecnologías y Herramientas**
+- **Lenguaje**: Python 🐍
+- **Librerías**: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn
+- **Plataformas**: Jupyter Notebook, PyCharm
+- **Bases de Datos**: SQL (PostgreSQL, MySQL)
+- **Machine Learning**: Modelos predictivos con Scikit-Learn
+
+---
+
+## 📂 **Contenido del Curso**
+1️⃣ **Introducción a Ciencia de Datos**
+   - ¿Qué es la Ciencia de Datos?
+   - Impacto en los negocios 📊
+   - Ciclo de vida de un proyecto de datos
+
+2️⃣ **Análisis Exploratorio de Datos (EDA)**
+   - Uso de `Pandas` y `NumPy` 📊
+   - Limpieza y preparación de datos
+   - Visualización con `Matplotlib` y `Seaborn`
+
+3️⃣ **Modelado Predictivo con Machine Learning**
+   - Regresión y clasificación
+   - Uso de `Scikit-Learn`
+   - Evaluación de modelos 📈
+
+4️⃣ **Big Data y SQL para Negocios**
+   - Consultas SQL en bases de datos empresariales
+   - Integración con Python
+
+5️⃣ **Casos de Estudio y Aplicaciones Reales**
+   - Predicción de ventas 🛒
+   - Segmentación de clientes 🎯
+   - Análisis de churn en empresas 📉
+
+---
+
+## 📌 **Requisitos Previos**
+📍 Conocimientos básicos de Python.
+📍 Familiaridad con Excel y estadísticas básicas.
+📍 Curiosidad por los datos y su impacto en los negocios.
+
+---
