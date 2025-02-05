@@ -1,0 +1,65 @@
+# 🚀 PyCharm
+.idea/
+*.iml
+
+# 🚀 Jupyter Notebooks
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+
+# 🚀 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+
+# 🚀 Virtual Environments
+venv/
+.env/
+.venv/
+env/
+env.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 🚀 Logs y Cachés
+*.log
+*.out
+*.err
+.DS_Store
+Thumbs.db
+.cache/
+*.sqlite3
+*.db
+
+# 🚀 Matplotlib y Gráficos Temporales
+.figure/
+.matplotlib/
+
+# 🚀 Archivos Grandes y Binarios
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.csv
+*.tsv
+*.xlsx
+*.xls
+
+# 🚀 Modelos de Machine Learning
+*.pkl
+*.joblib
+*.onnx
+*.pb
+*.pt
+*.tflite
+
+# 🚀 Docker y Anaconda (si usas)
+*.dockerignore
+*.conda
+*.ipynb_checkpoints/
